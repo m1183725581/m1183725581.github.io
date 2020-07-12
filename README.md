@@ -16,3 +16,10 @@ Geek是指极客，通常被用于形容对计算机和网络技术有狂热兴�
 
 ## 有点意思，下面这张gif可以形容我的心情：
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+
+git pull   抓取远程仓库
+git push origin b  提交到b分支
+git push   第二次提交到本分支
+git push origin master   第一次提交的本分支
+git commit -m "本次提交的修改的备注"
+git add -A   提交
